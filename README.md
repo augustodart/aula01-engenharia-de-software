@@ -1,15 +1,15 @@
-# Projeto Integrado – Desenvolvimento de Sistemas Móveis
+## Projeto Integrado – Desenvolvimento de Sistemas Móveis
 **Unidade de Estudos:** Engenharia de Software  
 **Semestre:** 2026.1  
 
-## Equipe
-- Nome 1  
-- Nome 2  
-- Nome 3  
-- Nome 4  
-
-## Descrição do Projeto
-Breve texto sobre o problema e a solução.
+## Problema 
+Logo aqui vocês podem descrever o problema
+## Público 
+Descrevam o público alvo do projeto
+## Objetivo
+#### - Objetivo 1:
+#### - Objetivo 2:
+#### - Objetivo 3:
 
 ## Estrutura do Repositório
 - /docs – documentos e diagramas  
